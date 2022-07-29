@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(action_tutorials_interfaces)
+project(test_msgs)
 
 find_package(catkin REQUIRED COMPONENTS actionlib actionlib_msgs)
 
